@@ -1,2 +1,2 @@
 def add(a, b):
-    return a - b   # 故意写成减法
+    return a + b
